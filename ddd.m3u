@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="thmanya1HD" tvg-logo="https://i44.servimg.com/u/f44/19/55/82/29/img_ee13.jpg" group-title="thmanyat",thmanya1HD (1080p)
+http://ninja-tv.com:80/AboAdaSat/01023740027/286280.m3u8
+#EXTINF:-1 tvg-id="thamanya1SD" tvg-logo="https://i44.servimg.com/u/f44/19/55/82/29/img_ee13.jpg" group-title="Religious",Thamanya SD (720p)
+http://ninja-tv.com:80/AboAdaSat/01023740027/286281.m3u8
+#EXTINF:-1 tvg-id="thamanyaHD2" tvg-logo="https://i44.servimg.com/u/f44/19/55/82/29/img_ee15.jpg" group-title="Undefined",thamanya HD 2 (720)
+http://ninja-tv.com:80/AboAdaSat/01023740027/296693.m3u8
+#EXTINF:-1 tvg-id="thamanya2SD" tvg-logo="https://i44.servimg.com/u/f44/19/55/82/29/img_ee15.jpg" group-title="Undefined", thamanya 2 SD (720p) 
+http://ninja-tv.com:80/AboAdaSat/01023740027/296363.m3u8
+#EXTINF:-1 tvg-id="thamany3FHD" tvg-logo="https://i44.servimg.com/u/f44/19/55/82/29/img_ee14.jpg" group-title="thmanyatu",thmanya 3FHD (1080p)
+http://ninja-tv.com:80/AboAdaSat/01023740027/296366.m3u8
+#EXTINF:-1 tvg-id="thmanya3HD" tvg-logo="https://i44.servimg.com/u/f44/19/55/82/29/img_ee14.jpg" group-title="thmanyat",thmanya 3 HD (1080p)
+http://ninja-tv.com:80/AboAdaSat/01023740027/296365.m3u8
+
